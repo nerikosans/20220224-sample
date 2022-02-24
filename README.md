@@ -1,6 +1,6 @@
 # 20220224-sample
 
-- Hello world!
+- Hello world! = Konnichiwa sekai!
 - Wow!
 - subarashii 
 - iori
