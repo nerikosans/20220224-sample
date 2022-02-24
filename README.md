@@ -2,5 +2,5 @@
 
 - Hello world! = Konnichiwa sekai!
 - Wow!
-- subarashii
-- waaa
+- subarashii 
+- iori
